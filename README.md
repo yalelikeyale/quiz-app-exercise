@@ -25,7 +25,7 @@
 
 3. **Setting up VS Code**
 
-- [Install VS Code Studio](https://code.visualstudio.com/download)
+- [Install VS Code IDE](https://code.visualstudio.com/download)
 - [Switch default terminal to iTerm2](https://saiankit30.medium.com/how-to-change-the-integrated-terminal-in-vs-code-from-default-to-pro-iterm-ish-5c958e13aada)
 
 `Manage Widget >> Settings >> Features >> Terminal >> set 'Explorer Kind' to 'external' and set 'Osx Exec' to 'iTerm.app'`
@@ -33,6 +33,7 @@
 - Enter `Cmd+Shift+P` and then find and run `Shell Command: install 'code' command in '$PATH'`
 
 - [Add Web Dev Extensions](https://codeforgeek.com/best-visual-studio-code-extensions-web-development/)
+
   **Required**
   - GitLens
   - Github Pull Requests and Issues
