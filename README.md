@@ -3,13 +3,12 @@
 
 ## **Getting Started**
 
-- [Setting up your development environment. Look ma, code stuff!](https://chiamakaikeanyi.dev/how-to-configure-your-macos-terminal-with-zsh-like-a-pro/)
-
 1. **Create a Github Account**
 - [SignUp Here](https://github.com/signup)
 - [Fork This Repo](https://github.com/yalelikeyale/quiz-app-exercise)
 
-2. **Setting up your Terminal**
+2. **Setting up your Terminal** 
+*[Setting up your development environment. Look ma, code stuff!]*(https://chiamakaikeanyi.dev/how-to-configure-your-macos-terminal-with-zsh-like-a-pro/)
 
 - Open your Mac Terminal 
 
@@ -53,6 +52,7 @@
 - Integrate GitHub with VS Code
   - Enter `Cmd+Shift+P` and then find and run `Git: Clone` 
   - You should see `Clone from GitHub` pop up as an option. Click that and authenticate the integration so that VS Code has permission to push and pull from GitHub.
+  - Now lookup and find the repo you forked earlier to download
 
 
 
