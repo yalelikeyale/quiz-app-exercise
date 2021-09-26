@@ -6,6 +6,7 @@
 1. **Create a Github Account**
 - [SignUp Here](https://github.com/signup)
 - [Fork This Repo](https://github.com/yalelikeyale/quiz-app-exercise)
+  - [How to fork repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 
 2. **Setting up your Terminal** 
 *[Setting up your development environment. Look ma, code stuff!]*(https://chiamakaikeanyi.dev/how-to-configure-your-macos-terminal-with-zsh-like-a-pro/)
