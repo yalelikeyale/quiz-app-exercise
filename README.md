@@ -36,6 +36,8 @@
 
 `Manage Widget >> Settings >> Features >> Terminal >> set 'Explorer Kind' to 'external' and set 'Osx Exec' to 'iTerm.app'`
 
+[VS Terminal Settings](https://github.com/yalelikeyale/tree/main/images/tutorial/vs_settings.png?raw=true)
+
 - Enter `Cmd+Shift+P` and then find and run `Shell Command: install 'code' command in '$PATH'`
 
 - Open iTerm and create and save a directory for this project to your desktop:
@@ -48,10 +50,12 @@
 - [Add Web Dev Extensions](https://codeforgeek.com/best-visual-studio-code-extensions-web-development/)
 
   **Required**
+
   - GitLens
   - Github Pull Requests and Issues
 
   **Nice to Have**
+
   - Javascript ES6 Snippets
   - CSS Peek
   - CSS Intellisense for HTML
@@ -65,14 +69,28 @@
 
 
 4. **Integrate GitHub with VS Code**
-  - Enter `Cmd+Shift+P` and then find and run `Git: Clone` 
-  - You should see `Clone from GitHub` pop up as an option. Click that and authenticate the integration so that VS Code has permission to push and pull from GitHub.
-  - Now lookup and find the repo you forked earlier to download
-  - From the top nav panel "Code, File, Edit, Selection...", click `Terminal` and open `New Terminal`
-  - Within the terminal, run `open index.html`. This should open the app with your default browser... and yes it should look awful. We are going to fix that during this tutorial. 
 
+- Enter `Cmd+Shift+P` and then find and run `Git: Clone` 
+- You should see `Clone from GitHub` pop up as an option. Click that and authenticate the integration so that VS Code has permission to push and pull from GitHub.
+- Now lookup and find the repo you forked earlier to download
+- From the top nav panel "Code, File, Edit, Selection...", click `Terminal` and open `New Terminal`
+- From the terminal, run `cd quiz-app-exercise`
+- From the terminal, run `open index.html`. This should open the app with your default browser... and yes it should look awful. We are going to fix that during this tutorial. 
 
-## Objectives of this Tutorial 
+5. **Connect Chrome to Directory**
+*[Edit Source Files in Chrome](https://www.sitepoint.com/edit-source-files-in-chrome/)*
+From Chrome... with index.html being open... where the URL in Chrome looks like: `Users/{your_user}/Desktop/proserv_enablement/quiz-app-exercise/index.html` *Path Look Familiar?*... Do the following: 
+
+1. Right click, inspect, navigate to the `Sources` tab
+2. On the left panel, you should see `Page` and `Filesystem`. Click `Filesystem`
+3. Click `+ Add Folder to Workspace`
+4. From the finder, select the `quiz-app-exercise` folder and allow chrome access. 
+5. Changes made in chrome will now be reflected within your source files saved to your computer. Yay! 
+
+![Are we having fun yet?](https://media.giphy.com/media/LxdS7fXgbjsGc/giphy.gif)
+ 
+
+## **Objectives of this Tutorial**
 
 1. *Wire Static Web Page Up*
 2. *Fix CSS*
@@ -90,6 +108,10 @@
 8. *Add data-testids and implement push state changes*
 
 
+## **Wire Static Web Page Up**
+
+
+## **Fix CSS**
 
 
 
