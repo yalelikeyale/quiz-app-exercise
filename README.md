@@ -36,7 +36,7 @@
 
 `Manage Widget >> Settings >> Features >> Terminal >> set 'Explorer Kind' to 'external' and set 'Osx Exec' to 'iTerm.app'`
 
-[VS Terminal Settings](https://github.com/yalelikeyale/blob/main/images/tutorial/vs_settings.png?raw=true)
+![VS Terminal Settings](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/vs_settings.png?raw=true)
 
 - Enter `Cmd+Shift+P` and then find and run `Shell Command: install 'code' command in '$PATH'`
 
