@@ -46,6 +46,8 @@
   3. Enter `echo $PWD` into the terminal and the output should be something like `/Users/your_user/Desktop/proserv_enablement`
   4. If above looks correct, now enter `code` into the terminal. This should open up VS Code from the appropriate directory. 
 
+![create project directory](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/create_project_directory.png?raw=true)
+
 
 - [Add Web Dev Extensions](https://codeforgeek.com/best-visual-studio-code-extensions-web-development/)
 
@@ -71,11 +73,24 @@
 4. **Integrate GitHub with VS Code**
 
 - Enter `Cmd+Shift+P` and then find and run `Git: Clone` 
+
+![vs git clone](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/vs_git_clone.png?raw=true)
+
 - You should see `Clone from GitHub` pop up as an option. Click that and authenticate the integration so that VS Code has permission to push and pull from GitHub.
+
+![vs clone from github](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/vs_clone_from_github.png?raw=true)
+
 - Now lookup and find the repo you forked earlier to download
+
+![vs clone from github](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/vs_select_repo.png?raw=true)
+
 - From the top nav panel "Code, File, Edit, Selection...", click `Terminal` and open `New Terminal`
 - From the terminal, run `cd quiz-app-exercise`
 - From the terminal, run `open index.html`. This should open the app with your default browser... and yes it should look awful. We are going to fix that during this tutorial. 
+
+![vs terminal](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/vs_terminal.png?raw=true)
+
+![open index](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/open_index.png?raw=true)
 
 5. **Connect Chrome to Directory**
 *[Edit Source Files in Chrome](https://www.sitepoint.com/edit-source-files-in-chrome/)*
@@ -86,6 +101,8 @@ From Chrome... with index.html being open... where the URL in Chrome looks like:
 3. Click `+ Add Folder to Workspace`
 4. From the finder, select the `quiz-app-exercise` folder and allow chrome access. 
 5. Changes made in chrome will now be reflected within your source files saved to your computer. Yay! 
+
+![dev tools](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/dev_tools.png?raw=true)
 
 ![Are we having fun yet?](https://media.giphy.com/media/LxdS7fXgbjsGc/giphy.gif)
  
