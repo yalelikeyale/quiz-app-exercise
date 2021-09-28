@@ -21,11 +21,21 @@
 - Make sure Homebrew is installed
 `brew help`
 
+![brew help](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/brew_help.png?raw=true)
+
 - Install iTerm2
 `brew cask install iterm2`
 
 - Install Oh My Zsh! 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
+
+![install ohmyzsh](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/install_ohmyzsh.png?raw=true)
+
+- If the above was successful, you should be able to run `open ~/.oh-my-zsh` and `open ~/.zshrc`
+
+![open zshrc](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/open_zshrc.png?raw=true)
+
+![zshrc](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/zshrc.png?raw=true)
 
 - Open the iTerm2 App, right click, keep in dock
 
