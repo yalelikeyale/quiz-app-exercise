@@ -95,7 +95,7 @@
 ![vs clone from github](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/vs_select_repo.png?raw=true)
 
 - From the top nav panel "Code, File, Edit, Selection...", click `Terminal` and open `New Terminal`
-- From the terminal, run `cd quiz-app-exercise`
+- From the terminal, run `cd quiz-app-exercise` (make this more clear)
 - From the terminal, run `open index.html`. This should open the app with your default browser... and yes it should look awful. We are going to fix that during this tutorial. 
 
 ![vs terminal](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/vs_terminal.png?raw=true)
