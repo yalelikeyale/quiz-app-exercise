@@ -24,7 +24,7 @@
 ![brew help](https://github.com/yalelikeyale/quiz-app-exercise/blob/main/images/tutorial/brew_help.png?raw=true)
 
 - Install iTerm2
-`brew cask install iterm2`
+`brew install -- cask iterm2`
 
 - Install Oh My Zsh! 
 `sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
@@ -42,7 +42,8 @@
 3. **Setting up VS Code**
 
 - [Install VS Code IDE](https://code.visualstudio.com/download)
-- [Switch default terminal to iTerm2](https://saiankit30.medium.com/how-to-change-the-integrated-terminal-in-vs-code-from-default-to-pro-iterm-ish-5c958e13aada)
+
+- Switch default terminal to iTerm2
 
 `Manage Widget >> Settings >> Features >> Terminal >> set 'Explorer Kind' to 'external' and set 'Osx Exec' to 'iTerm.app'`
 
@@ -64,17 +65,16 @@
   **Required**
 
   - GitLens
-  - Github Pull Requests and Issues
+  - Javascript ES6 Snippets
+  - CSS Intellisense for HTML
 
   **Nice to Have**
 
-  - Javascript ES6 Snippets
   - CSS Peek
-  - CSS Intellisense for HTML
+  - Prettier
   - Auto Close Tag
   - HTML Boiler Plate
   - Live Server
-  - Prettier
   - Rest Client
   - Path Intellisense
   - ES Lint
